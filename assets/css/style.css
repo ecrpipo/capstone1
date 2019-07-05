@@ -133,7 +133,7 @@ footer i {
 
 #jumbotron-about {
 	background-color: #333;
-	height: 90vh;
+	height: auto;
 	border-radius: 0;
 	margin-bottom: 0;
 }
@@ -179,7 +179,7 @@ footer i {
 }
 
 .team {
-	height: 30vh;
+	height: auto;
 	padding-top: 20px;
 }
 
